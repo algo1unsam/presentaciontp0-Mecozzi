@@ -1,26 +1,16 @@
-# Presentación
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
 
-Descripción
+## Estudiante: Tamara Mecozzi
 
-Foto de mi persona:
+Descripción  
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+Hola! Soy Tamara, Estudie en la UBA-FCE, actualmente me encuentro cambiando de rumbo.
 
-Diente de Leon
+Exitos! Que tengan un buen cuatri!
 
-------
+Foto de mi persona con mis gatos de estudio:
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
+![IMG_1903](https://github.com/algo1unsam/presentaciontp0-Mecozzi/assets/117954620/3edd3992-5b20-4bb4-9a51-5ba3769fb16a)
+
 
